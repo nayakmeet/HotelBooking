@@ -1,0 +1,15 @@
+2017-09-26 12:51:49,846 ERROR [root] - Error OccuredListener refused the connection with the following error:
+ORA-12518, TNS:listener could not hand off client connection
+ 
+2017-09-26 12:51:59,195 ERROR [root] - Error OccuredListener refused the connection with the following error:
+ORA-12518, TNS:listener could not hand off client connection
+ 
+2017-09-26 13:50:48,925 INFO [root] - Executed Successfully
+2017-09-26 13:51:50,176 INFO [root] - Executed Successfully
+2017-09-26 13:53:33,205 INFO [root] - Executed Successfully
+2017-09-26 13:54:27,186 INFO [root] - Executed Successfully
+2017-09-26 13:59:13,378 INFO [root] - Executed Successfully
+2017-09-26 13:59:21,479 INFO [root] - Executed Successfully
+2017-09-26 14:55:06,524 INFO [root] - Executed Successfully
+2017-09-26 14:55:16,389 INFO [root] - Executed Successfully
+2017-09-26 14:56:02,918 INFO [root] - Executed Successfully
